@@ -3,3 +3,5 @@
 </br>👇</br>
 For this, I used Visual Studio 2019 with C#.
 </h3>
+</br>
+</img src="https://github.com/samithaprasad/Image_Text_Reader/blob/main/Screenshot%201.jpg">
